@@ -1,4 +1,4 @@
-# Tkinter-based Calculator
+# Tkinter-based Python Calculator
 
 ## Description
 A simple calculator application built using Python and Tkinter. This calculator provides a user-friendly graphical interface for performing basic arithmetic operations.
