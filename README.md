@@ -12,8 +12,7 @@ A simple calculator application built using Python and Tkinter. This calculator 
 
 ## Installation
 1. Ensure you have Python installed on your system. This project is compatible with Python 3.x.
-2. Clone this repository or download the source code.
-3. No additional libraries are required as Tkinter comes pre-installed with Python.
+2. No additional libraries are required as Tkinter comes pre-installed with Python.
 
 ## Usage
 1. Navigate to the project directory in your terminal or command prompt.
